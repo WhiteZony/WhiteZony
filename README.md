@@ -41,7 +41,7 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 <h1 align="center">Zbot</h1>
 
 <h1 align="center">🦹‍♀️ Zbot 🦹‍♀️<br></h1>
-<p align="center"><img src="https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg" alt="animated" /></p>
+<p align="center"><img src="https://i.ibb.co/bgbNzS5/Null-20230212-WA0014bot.jpg" alt="animated" /></p>
 
 ## THANKS TO
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
