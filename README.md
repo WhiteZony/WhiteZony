@@ -44,18 +44,8 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 <p align="center"><img src="https://i.ibb.co/bgbNzS5/Null-20230212-WA0014bot.jpg" alt="animated" /></p>
 
 ## THANKS TO
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`FatihArridho`](https://github.com/FatihArridho)
-* [`Pa7rick`](https://github.com/pa7rickr)
-* [`RidhoUhuy`](https://github.com/Atak676) 
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
+* [`@DarkWinzo`]
+* 
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -63,5 +53,5 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`DarkWinzo`]
+
