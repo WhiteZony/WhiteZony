@@ -45,12 +45,8 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 
 ## THANKS TO
 * [`@DarkWinzo`]
-* 
 
 ```Thanks to all who have participated in the development of this script```
-
-
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
 * [`DarkWinzo`]
