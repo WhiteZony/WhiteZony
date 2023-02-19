@@ -1,0 +1,110 @@
+{
+  "users": {
+    "94783404516@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "94766541056@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "94775200935@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "94760260530@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "94787804171@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "94702533774@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "94783404516@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "94775200935@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363047146708088@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "94776133566@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "94766541056@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363049243094171@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "94702533774@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "94760260530@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363048537314153@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "94787804171@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363030883347157@g.us": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "94783404516@s.whatsapp.net": {
+      "anticall": true,
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {},
+  "anonymous": {}
+}
