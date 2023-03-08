@@ -31,16 +31,17 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 
 [![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
 
-## ❗ WARNING
+## ❗ WARNING ❗ ##
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
 Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Zbot/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 
-<h1 align="center">ZONYY-X</h1>
+
 
 <h1 align="center">🦹‍♀️ ZONYY-X 🦹‍♀️<br></h1>
+
 <p align="center"><img src="https://i.ibb.co/bgbNzS5/Null-20230212-WA0014bot.jpg" alt="animated" /></p>
 
 ## THANKS TO
