@@ -1,7 +1,7 @@
 # CATATAN ( NOTE )
 #මේක ටෙස්ට් කරන ගමන් ඉන්නෙ හලෝ.අඩුපාඩු ගොඩයි අනෙ.හදලා දෙන්නම්කො ඉක්මනින්.///හී හී///
 
-# Zbot
+# ZONYY-X
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -38,9 +38,9 @@ WhatsApp Connection (BETA, not working perfectly)
 Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Zbot/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 
-<h1 align="center">Zbot</h1>
+<h1 align="center">ZONYY-X</h1>
 
-<h1 align="center">🦹‍♀️ Zbot 🦹‍♀️<br></h1>
+<h1 align="center">🦹‍♀️ ZONYY-X 🦹‍♀️<br></h1>
 <p align="center"><img src="https://i.ibb.co/bgbNzS5/Null-20230212-WA0014bot.jpg" alt="animated" /></p>
 
 ## THANKS TO
